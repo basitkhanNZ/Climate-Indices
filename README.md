@@ -1,4 +1,4 @@
-# Climate-Indices
+# ECAD (Copernicus) Climate-Indices
 
 https://surfobs.climate.copernicus.eu/surfobs.php
 Drought Indices
